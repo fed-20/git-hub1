@@ -3,7 +3,7 @@ class program()
    public void m1(int a)#dev2
      {
         print("hello world,land")#dev2
-     }  
+     }
    public void m2()
      {
         print("hi")
