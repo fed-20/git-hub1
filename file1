@@ -1,0 +1,11 @@
+class program()
+{
+   public void m1()
+     {
+        print("hello world")
+     }  
+   public void m2()
+     {
+        print("hi")
+     }
+}
