@@ -1,8 +1,8 @@
 class program()
 {
-   public void m1()
+   public void m1(string a)#dev1
      {
-        print("hello world")
+        print("hello world,ocean")#dev1
      }  
    public void m2()
      {
